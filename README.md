@@ -58,12 +58,4 @@ Future upgrades can include vibration feedback, voice alerts, rechargeable power
 
 &nbsp;
 
-![][image1]
-
-## 
-
-## 
-
-## ![][image2]
-
 
